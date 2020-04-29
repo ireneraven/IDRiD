@@ -41,6 +41,9 @@ A continuación, se muestra un ejemplo con las imágenes de los exudados. Con la
 # Referencias
 
 [1] R. Ritch, “Pigment dispersion syndrome and pigmentary glaucoma,” in Encyclopedia of the Eye, vol. 24, no. 1, Elsevier, 2010, pp. 451–460.
+
 [2]	D. Blanca et al., “Glaucoma y retinopatía en pacientes con diabetes mellitus.”
+
 [3]	M. Xavier et al., “Análisis de Algoritmos para la Detección de Exudados Duros en Imágenes de Retina Que para obtener el grado de.”
+
 [4]	R. Yamashita, M. Nishio, R. K. G. Do, and K. Togashi, “Convolutional neural networks: an overview and application in radiology,” Insights into Imaging, vol. 9, no. 4. Springer Verlag, pp. 611–629, 01-Aug-2018, doi: 10.1007/s13244-018-0639-9.
