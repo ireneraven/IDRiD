@@ -36,6 +36,6 @@ Por último, puesto que en la base de datos de este proyecto están también dis
 
 A continuación, se muestra un ejemplo con las imágenes de los exudados. Con la máscara realizada por expertos (roja) y la máscara realizada por nosotros (blanca) se aplica el algoritmo de Dice-coefficient y se obtiene un 0,7124 de similitud.
 
-![Dice-coefficient](https://github.com/ireneraven/IDRiD/blob/master/Dice-coefficient.png)
+![Dice-coefficient](https://github.com/ireneraven/IDRiD/blob/master/Dice-coefficient.JPG)
 
 
