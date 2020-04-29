@@ -1,4 +1,3 @@
-# IDRiD
 # Análisis de lesiones causadas por retinopatía diabética.
 
 
